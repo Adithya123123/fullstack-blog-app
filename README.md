@@ -159,8 +159,8 @@ Open your browser and visit: **`http://localhost:5173`**
 
 Developed collaboratively as a full-stack B.Tech Computer Science project by:
 
-- **Adithya** &ndash; Full-Stack Architecture, Java Backend & Database (JDBC, HttpServer, SQL)
+- **Adithya** &ndash;
   - Email: [adithyajn833@gmail.com](mailto:adithyajn833@gmail.com)
-- **Seela Nandini** &ndash; Full-Stack Architecture, React Frontend (UI/UX, Components, API Integration)
+- **Seela Nandini** &ndash; 
   - GitHub: [@SeelaNandini](https://github.com/SeelaNandini)
   - Email: [seelanandini2005@gmail.com](mailto:seelanandini2005@gmail.com)
