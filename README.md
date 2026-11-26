@@ -18,7 +18,7 @@ Think of this project as three main parts working together:
 
 ## 2. Technologies Used
 
-- **Backend:** Java 17, Java HttpServer (`com.sun.net.httpserver`), JDBC, Gson, MySQL Connector/J
+- **Backend:** Java 17, Java, JDBC, Gson, MySQL Connector/J
 - **Frontend:** React JS, JavaScript, HTML, CSS, React Router, Vite
 - **Database:** MySQL 8.0
 - **Build Tool:** Apache Maven
