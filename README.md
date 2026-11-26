@@ -159,8 +159,5 @@ Open your browser and visit: **`http://localhost:5173`**
 
 Developed collaboratively as a full-stack B.Tech Computer Science project by:
 
-- **Adithya** &ndash;
-  - Email: [adithyajn833@gmail.com](mailto:adithyajn833@gmail.com)
-- **Seela Nandini** &ndash; 
-  - GitHub: [@SeelaNandini](https://github.com/SeelaNandini)
-  - Email: [seelanandini2005@gmail.com](mailto:seelanandini2005@gmail.com)
+- **Adithya** &ndash; [adithyajn833@gmail.com](mailto:adithyajn833@gmail.com)
+- **Seela Nandini** &ndash; [GitHub: @SeelaNandini](https://github.com/SeelaNandini) | [seelanandini2005@gmail.com](mailto:seelanandini2005@gmail.com)
